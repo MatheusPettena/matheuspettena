@@ -2,8 +2,7 @@
 
 **`Dev Backend`** **`Data Analytics`**
 
-🐭hi, i'm Matheus, i'm 21 and i'm from Campinas, Brazil. i'm studing to ingress in the Data Analytics Area.
-i Studied  I.T Manegement in the Pontifical Catholic University of Campinas and their I learned the basic notions about SQL and Python, so now, i'm studing this leangueges trying to create some fun and useful codes(code whatever helps make my life easier) to pract and understand about the code World.
+🐭 Hi, I'm Matheus, I'm 21 years old and I'm from Campinas, Brazil. I'm currently studying to enter the Data Analytics field. I studied IT Management at the Pontifical Catholic University of Campinas, where I learned the basics of SQL and Python. Now, I'm studying these languages and trying to create fun and useful programs (anything that makes my life easier) to practice and understand more about the world of coding.
 
 <!-- MEUS LINKS -->
 
