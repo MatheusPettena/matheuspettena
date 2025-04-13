@@ -60,11 +60,4 @@ i Studied  I.T Manegement in the Pontifical Catholic University of Campinas and 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=matheuspettena&show_icons=true&theme=github_dark&include_all_commits=true" 
   />
-
-  <img 
-    alt="GitHub Stats"
-    height="200px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspettena&layout=compact&theme=github_dark" 
-  />
 </p>
